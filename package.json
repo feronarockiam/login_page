@@ -1,0 +1,28 @@
+{
+  "name": "titan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "titan": "nodemon index.js"
+  },
+  "author": "titan_117",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.1.1",
+    "bcrypt": "^5.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hari-guptha/node-basic-db-login.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hari-guptha/node-basic-db-login/issues"
+  },
+  "homepage": "https://github.com/Hari-guptha/node-basic-db-login#readme",
+  "description": ""
+}
